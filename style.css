@@ -1,0 +1,28 @@
+.cards {
+  display: flex;
+  margin-top: 30px;
+}
+.card--1 {
+  background-color: red;
+  height: 100px;
+}
+.card--2 {
+  background-color: green;
+  height: 200px;
+}
+.card--3 {
+  background-color: green;
+  height: 300px;
+}
+.card--4 {
+  background-color: red;
+  height: 500px;
+}
+.card--5 {
+  background-color: green;
+  height: 200px;
+}
+.card--6 {
+  background-color: green;
+  height: 300px;
+}
